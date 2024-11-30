@@ -1,0 +1,21 @@
+# 编译输出
+out/
+bin/
+build/
+target/
+node_modules/
+*.class
+*.jar
+*.war
+
+# IDE 和工具配置
+.idea/
+*.iml
+.vscode/
+*.user
+
+# 环境和日志
+.env
+*.log
+*.tmp
+*.bak
